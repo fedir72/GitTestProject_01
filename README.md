@@ -6,5 +6,8 @@ my git testing project for book Git "Apprentise"
 2 second commit from server side
 3 third commif from server side on mine branch
 4 fourth commit from mac for main branch
-third commif from server side on mine branch
-fourth commit main branch server
+4 third commif from server side on mine branch
+4 fourth commit main branch server
+3 develop branch 01 commit
+4 develop branch 02 commit
+
